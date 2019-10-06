@@ -1,5 +1,6 @@
 ## Projects
 
+- [object-fit-ie](https://phe0nix.github.io/object-fit-ie/)
 - [React ToDo](https://phe0nix.github.io/React-ToDo/)
 - [Speech Email Sender](https://phe0nix.github.io/Speech-Email-Sender/)
 - [AnyMini](https://phe0nix.github.io/anymini/)
