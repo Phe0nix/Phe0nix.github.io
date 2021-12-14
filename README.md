@@ -9,3 +9,6 @@
 - [Placeholder Image Generator](https://phe0nix.github.io/placeholder-Image-Generator/)
 - [JS Clock](https://phe0nix.github.io/JS-Clock)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6373746702889938"
+     crossorigin="anonymous"\>
+</script\>
