@@ -1,8 +1,8 @@
 ## Projects
 
 <p align="left">
-  <img alt="Project count" src="https://img.shields.io/badge/Projects-7-0A7EA4?style=for-the-badge">
-  <img alt="Live demos" src="https://img.shields.io/badge/Live%20Demos-6-1F9D55?style=for-the-badge">
+  <img alt="Project count" src="https://img.shields.io/badge/Projects-8-0A7EA4?style=for-the-badge">
+  <img alt="Live demos" src="https://img.shields.io/badge/Live%20Demos-7-1F9D55?style=for-the-badge">
   <img alt="Open source package" src="https://img.shields.io/badge/Open%20Source-1%20NPM%20Package-CB3837?style=for-the-badge&logo=npm">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-222222?style=for-the-badge">
 </p>
@@ -102,7 +102,20 @@ Fast multiplication table generator for learning and practice.
 
 **Links:** [Live Demo](https://phe0nix.github.io/multiplication-table/)
 
+---
+
+#### 08. Flexbox Playground
+Interactive playground to experiment with CSS Flexbox properties in real time, built with React + Vite.
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff">
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=ffffff">
+</p>
+
+**Links:** [Live Demo](https://phe0nix.github.io/flexbox-playground/)
+
 ### Quick Access
 
-- Projects hub: https://phe0nix.github.io/
-- GitHub profile: https://github.com/Phe0nix
+- Projects hub: [https://phe0nix.github.io/](https://phe0nix.github.io/)
+- GitHub profile: [https://github.com/Phe0nix](https://github.com/Phe0nix)
