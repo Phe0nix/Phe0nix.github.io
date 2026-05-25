@@ -36,7 +36,20 @@ Mood-based browser tab experience with a playful interface.
 
 ---
 
-#### 03. Speech Email Sender
+#### 03. Flexbox Playground
+Interactive playground to experiment with CSS Flexbox properties in real time, built with React + Vite.
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff">
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=ffffff">
+</p>
+
+**Links:** [Live Demo](https://phe0nix.github.io/Flexbox-Playground/)
+
+---
+
+#### 04. Speech Email Sender
 Voice-assisted email sender concept using speech input.
 
 <p>
@@ -50,7 +63,7 @@ Voice-assisted email sender concept using speech input.
 
 ---
 
-#### 04. Placeholder Image Generator
+#### 05. Placeholder Image Generator
 Generate custom placeholder images quickly for design and prototyping.
 
 <p>
@@ -64,7 +77,7 @@ Generate custom placeholder images quickly for design and prototyping.
 
 ---
 
-#### 05. AnyMini
+#### 06. AnyMini
 Collection of small utility tools in one compact app.
 
 <p>
@@ -77,7 +90,7 @@ Collection of small utility tools in one compact app.
 
 ---
 
-#### 06. MiniPad
+#### 07. MiniPad
 Lightweight minimal notepad for quick writing and notes.
 
 <p>
@@ -91,7 +104,7 @@ Lightweight minimal notepad for quick writing and notes.
 
 ---
 
-#### 07. Multiplication Table
+#### 08. Multiplication Table
 Fast multiplication table generator for learning and practice.
 
 <p>
@@ -103,17 +116,6 @@ Fast multiplication table generator for learning and practice.
 **Links:** [Live Demo](https://phe0nix.github.io/multiplication-table/)
 
 ---
-
-#### 08. Flexbox Playground
-Interactive playground to experiment with CSS Flexbox properties in real time, built with React + Vite.
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff">
-  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=ffffff">
-</p>
-
-**Links:** [Live Demo](https://phe0nix.github.io/flexbox-playground/)
 
 ### Quick Access
 
