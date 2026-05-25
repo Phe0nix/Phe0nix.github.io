@@ -2,7 +2,13 @@ title: Pranab Dey | Developer Portfolio
 description: I enjoy turning ideas into usable, real-world tools. Portfolio showcasing projects built with Next.js, JavaScript, and AI. Explore tools, experiments, and real-world applications.
 url: "https://phe0nix.github.io/"
 baseurl: ""
+repository: Phe0nix/Phe0nix.github.io
 theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 author:
   name: Pranab Dey
@@ -14,6 +20,13 @@ timezone: Asia/Kolkata
 # SEO / Social
 twitter:
   username: pra_NAB
+  card: summary_large_image
+
+social:
+  name: Pranab Dey
+  links:
+    - https://github.com/Phe0nix
+    - https://x.com/pra_NAB
 
 github:
   username: phe0nix
@@ -22,4 +35,3 @@ github:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
